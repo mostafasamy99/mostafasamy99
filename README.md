@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mostafasamy99
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning backend web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (mostafamenshawy1999@gmail.com)
 
 <!---
